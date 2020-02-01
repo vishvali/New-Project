@@ -1,3 +1,7 @@
 Enter UserId:
 Enter Username:
+Login Through:
+1.Google accounts
+2.Facebook accounts
+
 
