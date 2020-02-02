@@ -1,6 +1,7 @@
-Enter UserId:
-Enter Username:
-Login Through:
+Enter First name
+Enter Last name
+
+Sign up Through:
 1.Google accounts
 2.Facebook accounts
 
