@@ -6,6 +6,11 @@ Link New Account
 Check Usage
 4G Data voucher
 
+
 Device settings
 App Settings
 JioPay settings
+=======
+Signout to another account
+
+
