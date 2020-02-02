@@ -5,3 +5,6 @@ Switch Account
 Link New Account
 Check Usage
 4G Data voucher
+
+Signout to another account
+Settings
